@@ -25,3 +25,6 @@ A modern, high-performance web application for searching and exploring GIFs, bui
 2. **Install dependencies**:
    ```bash
    npm install
+3. **Run project**:
+   ```bash
+   npm run dev
